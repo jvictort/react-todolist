@@ -38,6 +38,6 @@ Para que o projeto funcione é necessário seguir os seguintes passos:
 - Inicializar o json-server com "npm run server"
 - Inicializar o aplicativo com "npm start"
 
-Vale lembrar que para o projeto eu utilizei o Node na versão v14.21.2 e o npm na verso v6.14.17
+Vale lembrar que para o projeto eu utilizei o Node na versão v14.21.2 e o npm na versão v6.14.17
 
 ---
